@@ -20,6 +20,7 @@ if [ "$TOOL" = "gnu" ]; then
     sudo ln -s "$(which g++-"$VERSION")" /usr/bin/g++
 
     gcc --version
+    
 else
     sudo apt-get install -y lsb-release wget software-properties-common gnupg
     wget https://apt.llvm.org/llvm.sh
