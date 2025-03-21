@@ -1,12 +1,13 @@
+
 # Devcontainer
 
 <!-- SPDX-License-Identifier: 2.0 license with LLVM exceptions -->
 
-This folder contains the infrastructure for Beman project's 
-generic devcontainer image. You can checkout available images in beman's 
+This folder contains the infrastructure for Beman project's
+generic devcontainer image. You can checkout available images in beman's
 [GitHub Packages page](https://github.com/orgs/bemanproject/packages/container/package/devcontainers).
 
-The image is build on top of GitHub's 
+The image is build on top of GitHub's
 [C++ devcontainer image](https://github.com/devcontainers/images/tree/main/src/cpp)
 for Ubuntu 24.04.
 
